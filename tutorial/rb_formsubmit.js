@@ -1,8 +1,5 @@
 /*
-   New Perspectives on HTML and CSS, 7th Edition
-   Tutorial 7
-   Tutorial Case
-
+   
 
    Filename: rb_formsubmit.js
 
