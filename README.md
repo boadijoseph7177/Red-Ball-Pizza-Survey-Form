@@ -1,9 +1,6 @@
 # Red-Ball-Pizza-Survey-Form
 
 
-
-![Red Ball Pizza Logo](rb_logo.png)
-
 ## Description
 
 This is the Red Ball Pizza Survey Form, a web application created by Joseph Boadi. It allows customers to provide feedback by filling out a survey. This project is designed to help Red Ball Pizza maintain its tradition of being the top-rated pizzeria in the metro area.
